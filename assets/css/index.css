@@ -11,11 +11,11 @@
     font-family: 'Fira Sans', sans-serif;
 }
 :root {
-    --darkblue:  #018068;
+    --darkblue:  #1f0a69;
     --pastelblue: #F2F7FF;
-    --hovernav: #00b594; 
+    --hovernav: #1f0a69; 
     --lightcolor: #EBF5F3;
-    --lightteal:  #87E8D6;
+    --lightteal:  #5d48a9;
     --gray: #6C6C6C;
 
 }

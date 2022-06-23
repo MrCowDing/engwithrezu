@@ -13,8 +13,18 @@
     scrollbar-width: thin;
 }
 
-
 :root {
+    --main-color: #1f0a69;
+    --darkblue: #1f0a69;
+    --pastelblue: #F2F7FF;
+    --lilac: #f3f0ff;
+    --hovernav: #6339f7;
+    --aqua: #94ebff;
+    --white: #1f0a69;
+    --rumus: #ffffff;
+}
+
+.blue-theme {
     --darkblue: #018068;
     --main-color: #018068;
     --pastelblue: #F2F7FF;
@@ -39,16 +49,6 @@
     --rumus: #ffffff;
 }
 
-.blue-theme {
-    --main-color: #1f0a69;
-    --darkblue: #1f0a69;
-    --pastelblue: #F2F7FF;
-    --lilac: #f3f0ff;
-    --hovernav: #6339f7;
-    --aqua: #94ebff;
-    --white: #1f0a69;
-    --rumus: #ffffff;
-}
 /* Custom Scroll Bar */
 /* width */
 ::-webkit-scrollbar {
